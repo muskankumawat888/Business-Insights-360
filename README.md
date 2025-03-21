@@ -26,5 +26,8 @@ The goal of the **Business Insights 360 Project** is to provide a thorough study
 - **Slicers & Dynamic Filters**: Easily filter the data based on specific criteria such as time, categories, and regions.
 - **Bookmarks & Page Navigation**: Navigate easily between different dashboard pages.
 
+## Files
+- **Video Presentation:** [Watch Now](bit.ly/4bMLoOc)
+
 ## Conclusion
 Through this project, I gained a deep understanding of essential business drivers and performance indicators, leading to actionable insights. By integrating data across various functions, **Business Insights 360** provides a complete view, assisting businesses in making informed decisions and driving long-term growth.
