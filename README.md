@@ -28,7 +28,7 @@ The goal of the **Business Insights 360 Project** is to provide a thorough study
 
 ## Files
 - **Video Presentation:** [Watch Now](https://www.canva.com/design/DAGiSPOkst0/BImC37sz95RC4meFWtru-Q/watch?utm_content=DAGiSPOkst0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd73b23e151)
-- **Live Dashboard** [Check out](https://app.powerbi.com/view?r=eyJrIjoiNzUxMDI0YjgtNjBhNi00ZGI0LWEwOTUtMGFlYjFlMGJhNjFmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- **Live Dashboard** [Check out](https://app.powerbi.com/view?r=eyJrIjoiNzUxMDI0YjgtNjBhNi00ZGI0LWEwOTUtMGFlYjFlMGJhNjFmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=24d37883051992ab310b)
 
 ## Conclusion
 Through this project, I gained a deep understanding of essential business drivers and performance indicators, leading to actionable insights. By integrating data across various functions, **Business Insights 360** provides a complete view, assisting businesses in making informed decisions and driving long-term growth.
